@@ -1,3 +1,4 @@
+![1000050656](https://github.com/github/docs/assets/162191612/9808245c-b2ee-4e14-94e7-b45ee17c27da)
 # GitHub Docs <!-- omit in toc -->
 [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
